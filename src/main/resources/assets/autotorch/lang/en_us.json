@@ -1,0 +1,9 @@
+{
+
+  "autotorch.message.enabled": "AutoTorch: Enabled",
+  "autotorch.message.disabled": "AutoTorch: Disabled",
+
+  "autotorch.keybinding": "Toggle AutoTorch",
+  "autotorch.category": "AutoTorch"
+
+}
