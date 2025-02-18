@@ -3,13 +3,13 @@
 	"id": "autotorch",
 	"version": "${version}",
 	"name": "AutoTorch",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Automaticly place torches at player foot from hand or offhand.",
 	"authors": [
-		"Me!"
+		"MEGATREX4"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://megatrex4.netlify.app/",
+		"sources": "https://github.com/MEGATREX4/AutoTorch"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/autotorch/icon.png",
